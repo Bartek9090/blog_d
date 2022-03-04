@@ -15,14 +15,13 @@ SQLite3
 ### Dependencies
 
 * google fonts family Roboto 400, 700, 
-* google fonts family Monoton 200, 300, 400, 500, 600, 700, 800, 900
 * Django 3.2
 * font awsome
 * Token 1.8.6
 
 ### Installing
 git clone https://github.com/Bartek9090/blog_d  <br/>
-To run this project, install it locally, and execute a program.
+To run this project, install it locally, and execute a program. <br/>
 $ pip install django
 
 Set Database (Make Sure you are in directory same as manage.py)<br/>
