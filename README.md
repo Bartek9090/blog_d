@@ -1,15 +1,11 @@
-# Blog_d
+# Meetups Blog 
 -------------------------
 
 ## Description
-A responsive blog website create in 
-
-The website consists of: <br/>  
-  4 sections:
-  - 1 Animated menu with floating-bg animated in CSS.
-  - 2 Gallery of pictures
-  - 3 Section about us, Contain pictures of team with more details on hoover effect.
-  - 4 Contact section  with footer on the end.
+A responsive blog-meetups website create in Django.
+The website consists of a home page and two pages with meeting details. Of course, the number of subpages depends on your needs.
+APP is connect with database.
+ 
 
 ### Technologies
 Python 3.9
@@ -28,6 +24,13 @@ SQLite3
 git clone https://github.com/Bartek9090/blog_d  <br/>
 To run this project, install it locally, and execute a program.
 $ pip install django
+
+Set Database (Make Sure you are in directory same as manage.py)<br/>
+python manage.py makemigrations
+python manage.py migrate <br/>
+
+Create SuperUser <br/>
+python manage.py createsuperuser
 
 ## Help
 
