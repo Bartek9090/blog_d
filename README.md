@@ -20,8 +20,7 @@ SQLite3
 * Token 1.8.6
 
 ### Installing
-git clone https://github.com/Bartek9090/blog_d  <br/>
-To run this project, install it locally, and execute a program. <br/>
+
 $ pip install django
 
 Set Database (Make Sure you are in directory same as manage.py)<br/>
