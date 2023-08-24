@@ -2,8 +2,9 @@
 -------------------------
 
 ## Description
-A responsive blog-meetups website create in Django.
-The website consists of a home page and two pages with meeting details. Of course, the number of subpages depends on your needs.
+A responsive blog-meetups website create in Django framework.
+The website consists of a home page and two pages with meeting details.
+Number of subpages depends on your needs.
 APP is connect with database.
  
 
@@ -12,6 +13,7 @@ Python 3.9
 HTML5
 CSS3
 SQLite3
+
 ### Dependencies
 
 * google fonts family Roboto 400, 700, 
